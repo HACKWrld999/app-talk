@@ -24,7 +24,7 @@
     "react-dom": "^17.0.0",
     "react-helmet": "^6.1.0",
     "react-typography": "^0.16.23",
-    "typography": "^0.16.21"
+    "typography": "^0.16.24"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
